@@ -1,6 +1,6 @@
 # NR channel coding
 
-This project is a collection of implementations and resources related to LDPC (Low-Density Parity-Check) codes and Polar codes. LDPC and Polar codes are powerful error correction techniques widely used in digital communication systems to improve the reliability of data transmission.
+This project is about LDPC (Low-Density Parity-Check) codes and Polar codes. LDPC and Polar codes are powerful error correction techniques widely used in digital communication systems to improve the reliability of data transmission.
 
 ## Table of Contents
 

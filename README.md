@@ -21,6 +21,12 @@ This project contains implementations of LDPC and Polar codes in Java. Each impl
 
 ## Performance
 
+![alt text](Figure_1.png)
+
+Red Line: LDPC BG1, Z =24, rate = 1/2 <br>
+Blue Line: LDPC BG2, Z =52, rate = 1/2 <br>
+Black Line: Polar, N = 1024, K = 512
+
 ## Usage
 
 1. Clone the repository to you own computer.

@@ -37,4 +37,4 @@ Black Line: Polar, N = 1024, K = 512
 
 ## Resources
 
-This project is based on this YouTube playlist: 
+This project is based on this YouTube playlist: https://www.youtube.com/playlist?list=PLyqSpQzTE6M81HJ26ZaNv0V3ROBrcv-Kc
